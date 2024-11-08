@@ -61,3 +61,9 @@ criaCartao(
     'Por quanto tempo a Rika Furude está passando por Repetições?',
     'Debatívelmente mais de 1000 anos de Repetições, contando as mortes não muito contadas pela obra.'
 )
+
+criaCartao(
+    'Específica',
+    'Quem faz a melhor atuação para as cenas mais pesadas?',
+    'A Yukari Tamura é uma boa resposta pra isso, a atriz que faz a voz da Rika Furude consegue colocar todo o sentimento de uma cena em sua voz. Mesmo se a Rika esteja sendo aberta de cima para baixo.'
+)
