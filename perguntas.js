@@ -11,6 +11,12 @@ criaCartao(
     'Uma doença/droga que faz o usuário ficar a beira da insanidade.'
 )
 
+criaCartao(
+    'Específica',
+    'O que são os Fragmentos?',
+    'São resquícios de outras realidades, podendo ser quase igual ou inteiramente da outra, por suas bifurcações.'
+)
+
 
 criaCartao(
     'Umineko',
@@ -25,3 +31,8 @@ criaCartao(
     'São humanos meta-transcendentais, que transcendem acima da vida e a morte.'
 )
 
+criaCartao(
+    'Específica',
+    'O que é a Deusa Hanyuu "Furude"?',
+    'Uma Deusa meta-transcendental com o objetivo de manter a Rika Furude viva por todos os Fragmentos.'
+)
