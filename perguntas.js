@@ -67,3 +67,9 @@ criaCartao(
     'Quem faz a melhor atuação para as cenas mais pesadas?',
     'A Yukari Tamura é uma boa resposta pra isso, a atriz que faz a voz da Rika Furude consegue colocar todo o sentimento de uma cena em sua voz. Mesmo se a Rika esteja sendo aberta de cima para baixo.'
 )
+
+criaCartao(
+    'Específica',
+    'Quantos minutos dá para compilar apenas com as mortes da Rika Furude em todas as temporadas do Anime?',
+    'Mais de 36 minutos, testado pelo Pseudo-Mixtape "The Many Deaths of Rika Furude". Que esteja em produção.'
+)
