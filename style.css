@@ -1,5 +1,5 @@
 body {
-    background: #666666;
+    background: #000000;
 }
 
 
@@ -33,7 +33,7 @@ header{
 
 
 .cartao__conteudo {
-    background-color: #e87624;
+    background-color: #920000;
     text-align: center;
     height: 100%;
     transform-style: preserve-3d;
@@ -69,7 +69,7 @@ header{
 
 
 .cartao__conteudo__pergunta p {
-    color: black;
+    color: rgb(255, 255, 255);
     font-weight: 500;
 }
 
@@ -113,7 +113,7 @@ header{
 
 
 footer {
-    background-color: #e84624;
+    background-color: #580000;
     color: white;
     position: fixed;
     bottom: 0;
